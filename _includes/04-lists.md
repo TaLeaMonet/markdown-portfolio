@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+* Reading
+* Writing
+* Going for walks
+  *hiking 
+* Listening to music
+  *creating music
